@@ -35,13 +35,13 @@ Python is like a giant building. Most developers live inside its rooms (using li
 <a name="video-lectures"></a>
 ## 📺 Video Anlatımı / Video Tutorial
 
-[![Python Core Serisi Tanıtım](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
+[![Python Core Serisi Tanıtım](Giriş)](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
 
-> *Görsele tıklayarak serinin giriş videosunu izleyebilirsiniz.*
 
+
+---
 
 <a name="playlist"></a>
 ## 📺 Video Serisi & Oynatma Listesi / Playlist
-
 **[▶️ Tüm Seriyi İzle (Oynatma Listesi)](https://www.youtube.com/playlist?list=PLWmM3tw4zswZAjVf1qgPKt0mIfbxEhYpa)**
 *Bu seri, Python'un temellerinden başlayıp çekirdek (core) geliştirmeye kadar uzanan bir yolculuktur.*
