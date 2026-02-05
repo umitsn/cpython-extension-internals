@@ -3,9 +3,8 @@ Exploring CPython internals by re-implementing built-in functions in C. | Python
 
 # 👨‍🍳 CPython Extension Internals
 
-[🇹🇷 Türkçe Anlatım](#türkçe-anlatım) | [🇺🇸 English Description](#english-description)
+[🇹🇷 Türkçe Anlatım](#türkçe-anlatım) | [🇺🇸 English Description](#english-description) | [Video Dersler / Lectures](#video-lectures)| [Playlist](#playlist)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/U2m5enjtYNs)
 
 ---
 
@@ -33,16 +32,16 @@ Python is like a giant building. Most developers live inside its rooms (using li
 
 ---
 
+<a name="video-lectures"></a>
 ## 📺 Video Anlatımı / Video Tutorial
 
-[![Python Core Serisi](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ/0.jpg)](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
+[![Python Core Serisi Tanıtım](https://img.shields.io/badge/YouTube-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
 
 > *Görsele tıklayarak serinin giriş videosunu izleyebilirsiniz.*
 
+
+<a name="playlist"></a>
 ## 📺 Video Serisi & Oynatma Listesi / Playlist
 
-[![Python Core Serisi](https://img.youtube.com/vi/U2m5enjtYNs/0.jpg)](https://www.youtube.com/watch?v=U2m5enjtYNs)
-
-> [!TIP]
-> **[▶️ Tüm Seriyi İzle (Oynatma Listesi)](https://www.youtube.com/playlist?list=PLWmM3tw4zswZAjVf1qgPKt0mIfbxEhYpa)**
-> *Bu seri, Python'un temellerinden başlayıp çekirdek (core) geliştirmeye kadar uzanan bir yolculuktur.*
+**[▶️ Tüm Seriyi İzle (Oynatma Listesi)](https://www.youtube.com/playlist?list=PLWmM3tw4zswZAjVf1qgPKt0mIfbxEhYpa)**
+*Bu seri, Python'un temellerinden başlayıp çekirdek (core) geliştirmeye kadar uzanan bir yolculuktur.*
