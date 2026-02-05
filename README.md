@@ -35,7 +35,7 @@ Python is like a giant building. Most developers live inside its rooms (using li
 <a name="video-lectures"></a>
 ## 📺 Video Anlatımı / Video Tutorial
 
-[![Python Core Serisi Tanıtım](Giriş)](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
+[▶️ **01-Giriş / Introduction**](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
 
 
 
