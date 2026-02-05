@@ -3,7 +3,7 @@ Exploring CPython internals by re-implementing built-in functions in C. | Python
 
 # 👨‍🍳 CPython Extension Internals
 
-[🇹🇷 Türkçe Anlatım](#türkçe-anlatım) | [🇺🇸 English Description](#english-description) | [Video Dersler / Lectures](#video-lectures)| [Playlist](#playlist)
+[🇹🇷 Türkçe Anlatım](#türkçe-anlatım) | [🇺🇸 English Description](#english-description) | [Video Anlatımları / Tutorials](#video-lectures)| [Playlist](#playlist)
 
 
 ---
@@ -33,7 +33,7 @@ Python is like a giant building. Most developers live inside its rooms (using li
 ---
 
 <a name="video-lectures"></a>
-## 📺 Video Anlatımı / Video Tutorial
+## 📺 Video Anlatımları / Video Tutorials
 
 [▶️ **01-Giriş / Introduction**](https://youtu.be/U2m5enjtYNs?si=WpUqE_dsJ9DpV4KZ)
 
