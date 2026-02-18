@@ -1,4 +1,4 @@
-# Lesson 03 — 
+# Lesson 03 — Function Signatures: PY_UNUSED and METH_NOARGS
 
 Video : [https://youtu.be/YrpdQrXumFM](https://youtu.be/YrpdQrXumFM)
 
