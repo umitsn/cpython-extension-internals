@@ -1,4 +1,4 @@
-# Lesson 04 — PyArg_ParseTuple
+# Lesson 05 — integer default / optional parameter
 
 Video : [https://youtu.be/6N2fqGMQ41c](https://youtu.be/6N2fqGMQ41c)
 
